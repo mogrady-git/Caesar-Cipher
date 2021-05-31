@@ -1,6 +1,6 @@
 # Java Applications - caesar-cipher
 
-Simple Java Application to emulate one of the earliest known ciphers. Developed around 100 BC, it was used by Julius Caesar to send secret messages to his generals in the field. Caesar shifted each letter of his message three letters to the right to produce what could be called the ciphertext. The end-user would then be able to decrypt the message by knowing the key or number of shifts required to read the message.
+Simple Java Application to emulate one of the earliest known ciphers. Developed around 100 BC, it was used by Julius Caesar to send secret messages to his generals in the field. Caesar shifted each letter of his message three letters to the right to produce what could be called the ciphertext. The end-user would then be able to decrypt the message by knowing the key or number of shifts required to read the message..
 
 ```java
 package caesarCipher;
